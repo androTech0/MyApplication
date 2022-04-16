@@ -13,6 +13,8 @@ import com.helmy.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
+    var name = "helmy"
+
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
